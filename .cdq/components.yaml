@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://nexus.int.cdq.com/repository/files/schemas/components-metadata/components_metadata_file_schema.json
+team:
+  slug: x-team-sre
+
+components:
+- name: keycloak-home-idp-discovery
+  slug: keycloak-home-idp-discovery
+  type: internal-library
+  dependencies: []
+  owner: piotr.sobczak@cdq.com
